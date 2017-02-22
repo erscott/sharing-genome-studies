@@ -9,3 +9,4 @@
 | Nevada Institute of Personalized Medicine | 2015– | Research | 0 | WES | Yes | Monogenic, PGx | No | BAM, VCF | No | paper |
 | NYGC Seeq.io | 2016- | Research | ~500 | WGS (ultra low coverage) | No | ancestry, microbiome | No | BAM | No | update from joe feb 14, 2017 | 
 | NIH All of Us | 2017- | Research | 0? | WGS | ? | ? | ? | ? | ? | need talk to john |
+| Scripps Genomic Health Initiative | 2008- | Research | 3639 | Genotyping | No | Yes | No | ? | Yes | 
